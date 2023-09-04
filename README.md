@@ -1,70 +1,13 @@
-![Github Cover](https://github.com/hackernoon/pixel-icon-library/assets/53912722/70511474-f4dd-4f4c-a100-8773a0214516)
+# RSS Builder by B!Soft MarkBook RSS Feed
 
-# HackerNoon's Pixel Icon Library
-Introducing HackerNoon’s Pixel Icon Library, an open-source collection of 120+ Pixelated Icons. Meticulously designed on a 24px grid, ensuring perfect alignment and consistency to enrich your web/app/product/page/life experience. Inspired by HackerNoon’s retro design vibe, these icons capture the essence of the internet's good old days.
-
-## What’s in the Pixel Icon Library?
-* 120+ Pixelated Icons
-* Light SVG Files - 64.7 KB for the entire collection.
-* PNG files in 12px, 16 px, 24px, and 48px for both Light/Dark Mode
-* Multiple Ways to Use  - Install via NPM Package (Coming Soon), Directly via HTML & CSS, and via a Figma component library. 
-
-## Usage
-
-### HTML Image
-Using the ```<img />``` element directly in your HTML file.
-```
-<img src="path/to/icon.svg" alt="icon title" />
-```
-
-### Inline HTML 
-You can paste the content of the icon file directly into your HTML code to display it on the page using the ```<svg> </svg>``` tag.
-```
-<body>
- // Add your SVG code here
-</body>
-```
-
-### CSS 
-Instead of using an HTML ```<img />``` element, you can use CSS instead and apply it as a background to any other element.
-```
-body {
-  background-image: url(path/to/icon.svg);
-}
-```
-
-### SVG as an object
-You can also use the ```<object>``` tag to add the SVG to your page
-```
-<object data="path/to/icon.svg" width="24" height="24"> </object>
-```
-
-### Using <iframe>
-Keep in mind that using iframe is not recommended, because its hard to maintain
-```
-<iframe src="path/to/icon.svg"> </iframe>
-```
-
-### SVG as embed
-Most of the modern browsers have deprecated plugins, so this is not recommended.
-```
-<embed src="path/to/icon.svg" />
-```
-
-
-### Figma
-HackerNoon’s Pixel Icon Library is available as a [Figma Community File](https://www.figma.com/community/file/1278952394341234192/Pixel-Icon-Library-%7C-120%2B-Pixelated-Icons-By-HackerNoon). To use the components, log in to your Figma account and duplicate the file to your drafts.
-
-### Installation via NPM Package (Coming Soon🛠️)
- 
-# License (CC BY 4.0 International) 
-* The icons (.svg/.png) files are free to download and are licensed under CC 4.0 
-* By downloading, it is assumed that you agree with the terms mentioned in CC 4.0.
-* You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-* Other files in the repository which are not icons, are licensed under the MIT License.
-
-# Contribution
-For more info on how to contribute please check our [Contribution Guidelines](https://github.com/hackernoon/pixelated-site-icons/blob/main/CONTRIBUTING.md)
-
-
-**Designed with 💚 by Designers at HackerNoon**
+https://www.markbook.com MarkBook RSS Feed. Keep up to date on the latest news. en-us mrichardson@acadiemgroup.com The Acadiem Group 2020 NEW MarkBook HTML5 is Here! 10 Oct 2020 10:00:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News Our ALL NEW MarkBook HTML5 Web Application is Here! Flash or Flex is no longer required. Many added features in a clean new look. Now you can use MarkBook on your Chromebook, Android or iPadOS tablet as well as Windows, macOS or Linux devices. (Select tablets only) A new version of the app, 1.1.0 22 Dec 2020 16:30:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News A new version of the app, 1.1.0, has been launched. It contains a major security update. Please see the Release Notes for the details. A new version of the app, 1.2.0 26 Jan 2021 17:30:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News A new version of the app, 1.2.0, has been launched. You can now Copy Comments to many students at once and easily input entries on tablets using Numeric Keypad. Please see the Release Notes for the details. A new version of the app, 1.3.0 25 Mar 2021 17:30:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News A new version of the app, 1.3.0, has been launched. Please see the Release Notes for the details. A new version of the app, 1.4.0 30 Apr 2021 08:00:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News A new version of the app, 1.4.0, has been launched. Please see the Release Notes for the details. For TDSB users 6 Aug 2021 08:00:00 -0400 http://tdsb.on.ca/ mrichardson@acadiemgroup.com News TDSB users: In preparation for Single Sign On service in September, all usernames now use your Toronto District School Board email address. TDSB-logo.png Attention TDSB Users 18 Sep 2021 01:00:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News On Saturday September 18th, Single Sign On (SSO) will be implemented for TDSB MarkBook (Cloud) users. After the implementation is completed, teachers will be required to sign onto MarkBook using their TDSB e- mail address and password. Teachers that are already signing onto MarkBook with their TDSB email address will have their existing class data maintained. Teachers that are currently using personal email accounts will need to contact 
+support@markbookapp.com to request existing class data transfers, if required. TDSB-logo.png For TVDSB Users 09 Sep 2022 01:00:00 -0400 
+https://www.markbook.com News On Tuesday, September 6th, Single Sign On (SSO) was implemented for TVDSB MarkBook (Cloud) users. Teachers are now required to sign onto MarkBook using their TVDSB e-mail address and password in the Microsoft 365 Apps environment. Please follow the Information Guidesheet for "Transfer from Individual to Corporate Domain using SSO in MarkBook®”. Teachers that are already signing onto MarkBook with their TVDSB email address will have their existing class data maintained. Teachers that are currently using personal email accounts will need to contact 
+support@markbookapp.com to request existing class data transfers, if required. TVDSB-logo.webp WECDSB 31 Oct 2022 01:00:00 -0400 
+https://www.markbook.com News WECDSB users, please ensure that you have updated ALL of your courses with the most recent Aspen extract that has your first initial and last name in the file name (i.e. see below). Furthermore, please ensure you have submitted a copy (screenshots) of your updated courses to your school-issued Google form. WECDSB-logo.png
